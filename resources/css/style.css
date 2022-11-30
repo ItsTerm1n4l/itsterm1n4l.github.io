@@ -1,8 +1,8 @@
-* {background-image: url("resources/images/black-hole.jpg"),}
+* {background-image: url("resources/images/black-hole.jpg");}
 html,
 body,
 h1,
 p,
 body { 
-	background-image: url("resources/images/black-hole.jpg"),
+	background-image: url("resources/images/black-hole.jpg");
 }
