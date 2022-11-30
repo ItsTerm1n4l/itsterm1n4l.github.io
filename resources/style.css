@@ -1,0 +1,8 @@
+* {background-image: url("images/black-hole.jpg");}
+html,
+body,
+h1,
+p,
+body { 
+	background-image: url("images/black-hole.jpg");
+}
